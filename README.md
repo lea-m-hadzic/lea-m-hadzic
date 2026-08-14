@@ -1,4 +1,4 @@
-# Lea Hadzic
+# 👩🏼‍💻
 
 Computer Science @ Stanford.
 
