@@ -1,6 +1,6 @@
 # 👩🏼‍💻
 
-Computer Science @ Stanford.
+Computer Science @ Stanford
 
 Researching **AI, autonomous systems, and world models**, with broader interests in computer vision, multimodal learning, and spatial intelligence.
 
